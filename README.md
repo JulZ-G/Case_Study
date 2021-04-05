@@ -1,3 +1,5 @@
+## The code is for read-only use. Any other types of use are not permitted. 
+
 # Case_Study
 
 The Auto Regressive Integrated Moving Average (ARIMA), Logit, Probit and the
